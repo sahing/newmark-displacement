@@ -24,7 +24,7 @@ The script will:
 Assuming a_y = 0.06 g,
 
 ```python
-df_result = newmark_displacement('acceleration_sample.csv', yield_acc_g=0.06)
+df_result = newmark_displacement('acceleration.csv', yield_acc_g=0.06)
 ```
 
 4. Notes:
