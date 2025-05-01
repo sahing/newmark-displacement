@@ -1,5 +1,5 @@
 
-Newmark Sliding Block Analysis - Sample Dataset and Instructions
+Newmark Sliding Block Analysis 
 ================================================================
 
 1. File: acceleration_sample.csv
