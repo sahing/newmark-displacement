@@ -3,6 +3,7 @@ Newmark Sliding Block Analysis
 ================================================================
 
 1. File: acceleration_sample.csv
+2. rename the file to acceleration.csv
 --------------------------------
 This file contains a sample acceleration time history in two columns:
 - Time (in seconds)
